@@ -1,0 +1,15 @@
+Beantworten Sie mit Hilfe dieses Testbildes und Ihres Programms folgende Fragen:
+
+    Wie verändert sich der Informationsgehalt des Bildes (die Entropie), wenn Sie
+        die Helligkeit des Bildes ändern?
+        	Entropie bleibt gleich, solange die Grauwerte nicht die untere oder obere Grenze erreichen. Dann nimmt sie ab, da weniger Informationen im Bild enthalten sind. 
+        	
+        den Kontrast des Bildes ändern?
+        	Kontrastverringerung führt zu sofortigem Informationsverlust.
+        	Bei Kontrasterhöhung bleibt die Entropie gleich, solange die Grauwerte nicht die untere oder obere Grenze erreichen. Dann nimmt sie ab, da weniger Informationen im Bild enthalten sind.
+        	
+        die Schrittweite des Quantisierers erhöhen?
+        	Sofortiger Informationsverlust.
+        	
+        den Autokontrast anwenden? 
+        	Nur sehr geringer Informationsverlust (durch Rundungsfehler). 
